@@ -1,5 +1,0 @@
-opencv-python
-numpy
-tqdm
-pyyaml
-ultralytics>=8.0.0
